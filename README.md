@@ -4,7 +4,7 @@ I'm James — a Senior Front-End Developer with over 15 years experience under m
 
 Formerly freelance, now perm — I’m currently open to new opportunities. 
 
-Currently based in Nottingham, I'm ideally looking for remote London-based roles — my inteition is to be back down that way working on-site 5 days a week before too long. Whilst perm is very much my prefernece these days, I remain open to contract roles too.
+Currently based in Nottingham, I'm ideally looking for remote London-based roles — my intention is to be back down that way working on-site 5 days a week before too long. Whilst perm is very much my prefernece these days, I remain open to contract roles too.
 
 My full CV is available over at [jamesrock.me](jamesrock.me). 
 
@@ -20,7 +20,7 @@ All five repos can be found here on GitHub:
 
 [github.com/svelte-movies](https://github.com/jamesrock/svelte-movies)  
 [github.com/nuxt-movies](https://github.com/jamesrock/nuxt-movies)  
-[github.com/nextjs-movies](https://github.com/jamesrock/nextjs-movies)  
+[github.com/next-movies](https://github.com/jamesrock/nextjs-movies)  
 [github.com/solid-movies](https://github.com/jamesrock/solid-movies)  
 [github.com/angular-movies](https://github.com/jamesrock/angular-movies)  
 
