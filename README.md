@@ -4,7 +4,7 @@ I'm James — a Senior Front-End Developer.
 
 Formerly freelance, now perm, I’m currently open to new opportunities. 
 
-See my CV over at (jamesrock.me)[jamesrock.me]. 
+See my CV over at [jamesrock.me](jamesrock.me). 
 
 I recently built the same app using Next, Nuxt, Angular, Svelte, and Solid — all but one of which I'd never use before — in an effort to demonstrate that picking up frameworks isn't quite the huge deal hiring managers seem to think it is...
 
