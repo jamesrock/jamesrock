@@ -22,7 +22,7 @@ All five repos can be found here on GitHub...
 [github.com/solid-movies](https://github.com/jamesrock/solid-movies)  
 [github.com/angular-movies](https://github.com/jamesrock/angular-movies)  
 
-Other than that, in terms of person projects, I'm very proud of my remake of the smash hit game Flappy Bird — go check it out over at frappybird.com. You can find the repo at [github.com/jamesrock/phaser-frappybird](https://github.com/jamesrock/phaser-frappybird).
+Beyond that, in terms of personal projects, I'm rather fond of my Flappy Bird remake — the classic tap-to-flap game no longer available on the AppStore — go check it out over at frappybird.com. You can find the repo at [github.com/jamesrock/phaser-frappybird](https://github.com/jamesrock/phaser-frappybird).
 
 <!--
 **jamesrock/jamesrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
