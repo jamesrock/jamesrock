@@ -14,7 +14,7 @@ I'm across the full front-end spectrum, including UX design, having built and co
 
 ### Latest Project
 
-I recently built the same app using Svelte, Nuxt, Next, Solid and Angular — all but one of which I'd never use before — in an effort to show that picking-up frameworks isn't quite the huge deal hiring managers seem to think it is. 
+I recently built the same app using [Svelte](https://svelte.dev), [Nuxt](https://nuxt.com), [Next](https://nextjs.org), [Solid](https://docs.solidjs.com) and [Angular](https://angular.dev) — all but one of which I'd never use before — in an effort to show that picking-up frameworks isn't quite the huge deal hiring managers seem to think it is. 
 
 All five repos can be found here on GitHub:
 
@@ -27,7 +27,6 @@ All five repos can be found here on GitHub:
 ### Older Projects
 
 I'm rather fond of my Flappy Bird remake — the classic tap-to-flap game no longer available on the AppStore — go check it out over at [frappybird.com](https://frappybird.com). You can find the repo at [github.com/phaser-frappybird](https://github.com/jamesrock/phaser-frappybird).
-
 
 <!--
 **jamesrock/jamesrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
