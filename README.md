@@ -4,7 +4,7 @@ I'm James — a Senior Front-End Developer with over 15 years experience under m
 
 Formerly freelance, now perm — I’m currently open to new opportunities. 
 
-Currently based in Nottingham, I'm ideally looking for remote London-based roles — my intention is to be back down that way working on-site 5 days a week before too long. Whilst perm is very much my prefernece these days, I remain open to contract roles too.
+Currently based in Nottingham, I'm ideally looking for remote London-based roles — my intention is to be back down that way working on-site 5 days a week before too long.
 
 My full CV is available over at [jamesrock.me](jamesrock.me). 
 
