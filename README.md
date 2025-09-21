@@ -10,7 +10,7 @@ My full CV is available over at [jamesrock.me](jamesrock.me).
 
 ### Background
 
-I'm across the full front-end spectrum, including UX design, having built and contributed to many wonderful projects over the years. As is typical, most of my work is either under NDA, has been taken down for one reason or another, or has been completely bastardised since I moved on — some never even made it past proof of concept! That's just the fleeting nature of contracting, unfortunately. It's all rather throwaway — I'd much rather be involved in more meaningful projects over the long-term.
+I'm across the full front-end spectrum, including UX design, having built and contributed to many wonderful projects over the years. As is typical, most of my work is either under NDA, has been taken down for one reason or another, or has been completely bastardised since I moved on. That's just the fleeting nature of contracting, unfortunately. It's all rather throwaway — I'd much rather be involved in more meaningful projects over the long-term.
 
 ### Latest Project
 
