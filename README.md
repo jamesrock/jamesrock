@@ -14,7 +14,7 @@ I'm across the full front-end spectrum, including UX design, having built and co
 
 ### Latest Project
 
-I recently built the same app using [Svelte](https://svelte.dev), [Nuxt](https://nuxt.com), [Next](https://nextjs.org), [Solid](https://docs.solidjs.com) and [Angular](https://angular.dev) — all but one of which I'd never use before — in an effort to show that picking-up frameworks isn't quite the huge deal hiring managers seem to think it is. 
+I recently built the same app using [Next](https://nextjs.org), [Nuxt](https://nuxt.com), [Angular](https://angular.dev), [Svelte](https://svelte.dev) and [Solid](https://docs.solidjs.com) — all but one of which I'd never used before. 
 
 All five repos can be found here on GitHub:
 
