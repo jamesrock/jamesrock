@@ -14,7 +14,7 @@ I'm across the full front-end spectrum, including UX design, having built and co
 
 I recently built the same app using [Next](https://nextjs.org), [Nuxt](https://nuxt.com), [Angular](https://angular.dev), [Svelte](https://svelte.dev) and [Solid](https://docs.solidjs.com) — all but one of which I'd never used before — in less than 10 days. 
 
-All five repos can be found here on GitHub:
+All five repos are available here on GitHub:
 
 [github.com/svelte-movies](https://github.com/jamesrock/svelte-movies)  
 [github.com/nuxt-movies](https://github.com/jamesrock/nuxt-movies)  
