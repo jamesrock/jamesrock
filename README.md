@@ -12,7 +12,7 @@ I'm across the full front-end spectrum, including UX design, having built and co
 
 ### Latest Project
 
-I recently built the same app using [Next](https://nextjs.org), [Nuxt](https://nuxt.com), [Angular](https://angular.dev), [Svelte](https://svelte.dev) and [Solid](https://docs.solidjs.com) — all but one of which I'd never used before. 
+I recently built the same app using [Next](https://nextjs.org), [Nuxt](https://nuxt.com), [Angular](https://angular.dev), [Svelte](https://svelte.dev) and [Solid](https://docs.solidjs.com) — all but one of which I'd never used before — in 10 days. 
 
 All five repos can be found here on GitHub:
 
