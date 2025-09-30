@@ -24,7 +24,7 @@ All five repos are available here on GitHub:
 
 ### Older Projects
 
-I'm rather fond of my Flappy Bird remake — the classic tap-to-flap game no longer available on the AppStore — go check it out over at [frappybird.com](https://frappybird.com). You can find the repo at [github.com/phaser-frappybird](https://github.com/jamesrock/phaser-frappybird).
+I'm rather fond of my Flappy Bird remake — the classic tap-to-flap game no longer available on the AppStore — go check it out over at [frappybird.com](https://frappybird.com). Repo available at [phaser-frappybird](https://github.com/jamesrock/phaser-frappybird).
 
 Besides this I've built several other web-based games, most of which are available on the AppStore (with thanks to [Capacitor](https://capacitorjs.com)) — examples include [capacitor-rodoku](https://github.com/jamesrock/capacitor-rodoku), a one-thumb form of Sudoku, [capacitor-thirteens](https://github.com/jamesrock/capacitor-thirteens), a unique solitaire-style card game, and [capacitor-hexblox](https://github.com/jamesrock/capacitor-hexblox), a stripped-back version of Tetris.
 
