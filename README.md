@@ -8,7 +8,7 @@ My full CV is available over at [jamesrock.me](jamesrock.me).
 
 ### Background
 
-I'm across the full front-end spectrum, including UX design, having built and contributed to many wonderful projects over the years.
+I'm across the full front-end spectrum, including UX design, having built and contributed to many wonderful projects over the years, working with well-known brands such as BMW, MINI, GSK, Sky Sports, Heineken, Post Office, Ben & Jerry's and London Fashion Week to name a few.
 
 ### Latest Project
 
