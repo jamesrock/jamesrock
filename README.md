@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-I'm James — a Senior Front-End Developer with over 15 years experience under my belt. 
-
-Currently based in Nottingham, I'm ideally looking for remote London-based roles — my intention is to be back down that way working on-site 5 days a week before too long.
+I'm James — a Senior Front-End Developer currently based in Nottingham, open to London-based remote roles.
 
 My full CV is available over at [jamesrock.me](jamesrock.me). 
 
 ### Background
 
-I'm across the full front-end spectrum, including UX design, having built and contributed to many wonderful projects over the years, working with well-known brands such as BMW, MINI, GSK, Sky Sports, Heineken, Post Office, Ben & Jerry's and London Fashion Week to name a few.
+Over the last 15 years I've built and contributed to many exciting projects, working with well-known brands such as BMW, MINI, GSK, Sky Sports, Heineken, Post Office, Ben & Jerry's and London Fashion Week to name just a few. I’ve built everything from static micro sites using raw HTML/CSS/JS right through to fully-fledged API-driven web apps using React, Next and Nuxt. Besides coding, I’ve a passion for usability and would also consider myself a UX designer. 
 
-### Latest Project
+Two examples of commercial work that are both publicly available and not subject to NDA would be [incolchester.co.uk](https://incolchester.co.uk) and [visitclaphamjunction.com](https://visitclaphamjunction.com) — both based on CraftCMS.
+
+### Personal Endeavours
 
 I recently built the same app using [Next](https://nextjs.org), [Nuxt](https://nuxt.com), [Angular](https://angular.dev), [Svelte](https://svelte.dev) and [Solid](https://docs.solidjs.com) — all but one of which I'd never used before — in less than 10 days. 
 
@@ -22,23 +22,6 @@ All five repos are available here on GitHub:
 [github.com/solid-movies](https://github.com/jamesrock/solid-movies)  
 [github.com/angular-movies](https://github.com/jamesrock/angular-movies)  
 
-### Older Projects
+### Game Dev
 
-I'm rather fond of my Flappy Bird remake — the classic tap-to-flap game no longer available on the AppStore — go check it out over at [frappybird.com](https://frappybird.com). Repo available at [phaser-frappybird](https://github.com/jamesrock/phaser-frappybird).
-
-Besides this I've built several other web-based games, most of which are available on the AppStore (with thanks to [Capacitor](https://capacitorjs.com)) — examples include [capacitor-rodoku](https://github.com/jamesrock/capacitor-rodoku), a one-thumb form of Sudoku, [capacitor-thirteens](https://github.com/jamesrock/capacitor-thirteens), a unique solitaire-style card game, and [capacitor-hexblox](https://github.com/jamesrock/capacitor-hexblox), a stripped-back version of Tetris.
-
-<!--
-**jamesrock/jamesrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Frappy Bird](https://frappybird.com) — a remake of the classic tap-to-flap game Flappy Bird that's no longer available on the AppStore, written using Phaser JS. Repo also available at [phaser-frappybird](https://github.com/jamesrock/phaser-frappybird). I've also built several other web-based games, most of which are available on the AppStore (with thanks to [Capacitor](https://capacitorjs.com)) — examples include [Rodoku](https://github.com/jamesrock/capacitor-rodoku), [Thirteens](https://github.com/jamesrock/capacitor-thirteens) and [Hexblox](https://github.com/jamesrock/capacitor-hexblox).
