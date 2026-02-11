@@ -6,15 +6,15 @@ My full CV is available over at [jamesrock.me](jamesrock.me).
 
 ### Background
 
-Over the last 15 years I've built and contributed to many exciting projects, working with well-known brands such as BMW, MINI, GSK, Sky Sports, Heineken, Post Office, Ben & Jerry's and London Fashion Week to name just a few. I’ve built everything from static micro sites using raw HTML/CSS/JS right through to fully-fledged API-driven web apps using React, Next and Nuxt. Besides coding, I’ve a passion for usability and would also consider myself a UX designer. 
+Over the last 15 years I've built and contributed to many exciting projects, working with well-known brands such as BMW, MINI, GSK, Sky Sports, Heineken, Post Office, Ben & Jerry's and London Fashion Week to name just a few. I’ve built everything from static micro sites using raw HTML/CSS/JS right through to fully-fledged API-driven web apps using React, Next and Nuxt. Besides coding, I’ve a passion for usability, and consider myself a UX designer at heart. 
 
-Two examples of commercial work that are both publicly available and not subject to NDA would be [incolchester.co.uk](https://incolchester.co.uk) and [visitclaphamjunction.com](https://visitclaphamjunction.com) — both based on CraftCMS.
+### Portfolio
+
+I don't really have a 'portfolio' as such — it's just much harder for developers than designers, however, two examples of commercial work that are still available and not subject to NDA would be [incolchester.co.uk](https://incolchester.co.uk) and [visitclaphamjunction.com](https://visitclaphamjunction.com) — both based on CraftCMS. There's also the [Studio2br](https://2br.com) site — everything else has either been taken down, changed, subject to NDA, or not publicly available. As always, linking to live projects is risky — things can change at the drop of a hat, and suddenly it's no longer the site I once built.
 
 ### Personal Endeavours
 
 I recently built the same app using [Next](https://nextjs.org), [Nuxt](https://nuxt.com), [Angular](https://angular.dev), [Svelte](https://svelte.dev) and [Solid](https://docs.solidjs.com) — all but one of which I'd never used before — in less than 10 days. 
-
-All five repos are available here on GitHub:
 
 [github.com/svelte-movies](https://github.com/jamesrock/svelte-movies)  
 [github.com/nuxt-movies](https://github.com/jamesrock/nuxt-movies)  
@@ -24,4 +24,4 @@ All five repos are available here on GitHub:
 
 ### Game Dev
 
-[Frappy Bird](https://frappybird.com) — a remake of the classic tap-to-flap game Flappy Bird that's no longer available on the AppStore, written using Phaser JS. Repo also available at [phaser-frappybird](https://github.com/jamesrock/phaser-frappybird). I've also built several other web-based games, most of which are available on the AppStore (with thanks to [Capacitor](https://capacitorjs.com)) — examples include [Rodoku](https://github.com/jamesrock/capacitor-rodoku), [Thirteens](https://github.com/jamesrock/capacitor-thirteens) and [Hexblox](https://github.com/jamesrock/capacitor-hexblox).
+In addition to sites and web-app builds, I've written a number of JS-based games, some of which are available on the AppStore (with thanks to [Capacitor](https://capacitorjs.com)) — examples include [knobs](https://github.com/jamesrock/capacitor-knobs), [HexBlox](https://github.com/jamesrock/capacitor-hexblox), [Rodoku](https://github.com/jamesrock/capacitor-rodoku), [Thirteens](https://github.com/jamesrock/capacitor-thirteens), and perhaps my favorite of the lot, [Frappy Bird](https://github.com/jamesrock/phaser-frappybird).
