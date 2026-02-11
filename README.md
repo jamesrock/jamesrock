@@ -24,4 +24,4 @@ I recently built the same app using [Next](https://nextjs.org), [Nuxt](https://n
 
 ### Game Dev
 
-In addition to sites and web-app builds, I've written a number of JS-based games, some of which are available on the AppStore (with thanks to [Capacitor](https://capacitorjs.com)) — examples include [knobs](https://github.com/jamesrock/capacitor-knobs), [HexBlox](https://github.com/jamesrock/capacitor-hexblox), [Rodoku](https://github.com/jamesrock/capacitor-rodoku), [Thirteens](https://github.com/jamesrock/capacitor-thirteens), and perhaps my favorite of the lot, [Frappy Bird](https://github.com/jamesrock/phaser-frappybird).
+In addition to sites and web-app builds, I've written a number of JS-based games, some of which are available on the iOS App Store (with thanks to [Capacitor](https://capacitorjs.com)) — examples include [knobs](https://github.com/jamesrock/capacitor-knobs), [HexBlox](https://github.com/jamesrock/capacitor-hexblox), [Rodoku](https://github.com/jamesrock/capacitor-rodoku), [Thirteens](https://github.com/jamesrock/capacitor-thirteens), and perhaps my favorite of the lot, [Frappy Bird](https://github.com/jamesrock/phaser-frappybird).
