@@ -10,7 +10,7 @@ Over the last 15 years I've built and contributed to many exciting projects, wor
 
 ### Portfolio
 
-I don't really have a 'portfolio' as such — it's just much harder for developers than designers, however, two examples of commercial work that are still available and not subject to NDA would be [incolchester.co.uk](https://incolchester.co.uk) and [visitclaphamjunction.com](https://visitclaphamjunction.com) — both based on CraftCMS. There's also the [Studio2br](https://2br.com) site — everything else has either been taken down, changed, subject to NDA, or not publicly available. As always, linking to live projects is risky — things can change at the drop of a hat, and suddenly it's no longer the site I once built.
+Aside form a bunch of personal projects on here, I don't really have a 'portfolio' as such — it's just much harder for developers than designers, however, two examples of commercial work that are still available and not subject to NDA would be [incolchester.co.uk](https://incolchester.co.uk) and [visitclaphamjunction.com](https://visitclaphamjunction.com) — both based on CraftCMS. There's also the [Studio2br](https://2br.com) site — everything else has either been taken down, changed, subject to NDA, or not publicly available. As always, linking to live projects is risky — things can change at the drop of a hat, and suddenly it's no longer the site I once built.
 
 ### Personal Endeavours
 
@@ -24,4 +24,4 @@ I recently built the same app using [Next](https://nextjs.org), [Nuxt](https://n
 
 ### Game Dev
 
-I've written a number of JS-based games, some of which are available on the iOS App Store (with thanks to [Capacitor](https://capacitorjs.com)) — examples include [Knobs](https://github.com/jamesrock/capacitor-knobs), [HexBlox](https://github.com/jamesrock/capacitor-hexblox), [Snake](https://github.com/jamesrock/snake), [Rodoku](https://github.com/jamesrock/capacitor-rodoku), [Thirteens](https://github.com/jamesrock/capacitor-thirteens), and perhaps my favorite of the lot, [Frappy Bird](https://github.com/jamesrock/phaser-frappybird).
+I've written a number of JavaScript-based games, some of which are available on the iOS App Store (with thanks to [Capacitor](https://capacitorjs.com)) — examples include [Knobs](https://github.com/jamesrock/knobs), [HexBlox](https://github.com/jamesrock/hex-blox), [HexSnake](https://github.com/jamesrock/hex-snake), [HexDraw](https://github.com/jamesrock/hex-draw), [Rodoku](https://github.com/jamesrock/rodoku), [Thirteens](https://github.com/jamesrock/thirteens), and perhaps my favorite of the lot, [FrappyBird](https://github.com/jamesrock/frappybird).
