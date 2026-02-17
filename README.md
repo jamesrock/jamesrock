@@ -14,7 +14,7 @@ Aside form a bunch of personal projects on here, I don't really have a 'portfoli
 
 ### Personal Endeavours
 
-I recently built the same app using [Next](https://nextjs.org), [Nuxt](https://nuxt.com), [Angular](https://angular.dev), [Svelte](https://svelte.dev) and [Solid](https://docs.solidjs.com) — all but one of which I'd never used before — in less than 10 days. 
+I recently built the same app using Next, Nuxt, Angular, Svelte and Solid — all but one of which I'd never used before — in less than 10 days. 
 
 [github.com/svelte-movies](https://github.com/jamesrock/svelte-movies)  
 [github.com/nuxt-movies](https://github.com/jamesrock/nuxt-movies)  
