@@ -10,7 +10,7 @@ Over the last 15 years I've built and contributed to many exciting projects, wor
 
 ### Portfolio
 
-Aside form a bunch of personal projects on here, I don't really have a 'portfolio' as such — it's just much harder for developers than designers, however, two examples of commercial work that are still available and not subject to NDA would be [incolchester.co.uk](https://incolchester.co.uk) and [visitclaphamjunction.com](https://visitclaphamjunction.com) — both based on CraftCMS. There's also the [Studio2br](https://2br.com) site — everything else has either been taken down, changed, subject to NDA, or not publicly available. As always, linking to live projects is risky — things can change at the drop of a hat, and suddenly it's no longer the site I once built.
+Aside form a bunch of personal projects on here, I don't really have a 'portfolio' as such — it's just much harder for developers than designers, however, some examples of commercial work that are still available and not subject to NDA would be [incolchester.co.uk](https://incolchester.co.uk), [visitclaphamjunction.com](https://visitclaphamjunction.com) and the [Studio2br](https://2br.com) site, all of which are based on CraftCMS — everything else has either been taken down, changed, subject to NDA, or not publicly available. As always, linking to live projects is risky — things can change at the drop of a hat, and suddenly it's no longer the site I once built.
 
 ### Personal Endeavours
 
