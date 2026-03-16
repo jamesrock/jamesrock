@@ -14,7 +14,7 @@ Although I don't really have a commercial portfolio as such — it's just much h
 
 ### Personal Endeavours
 
-I recently built five versions of the same movie discovery tool using Next, Nuxt, Angular, Svelte and Solid — all but one of which I'd never used before — in less than ten days, in an effort to dispel the myth that one needs five years' experience in any specific web framework in order to use it...
+I recently built five versions of the same movie discovery tool using Next, Nuxt, Angular, Svelte and Solid — all but one of which I'd never used before — in less than ten days, in an effort to prove prior experience is massively overrated...
 
 [github.com/svelte-movies](https://github.com/jamesrock/svelte-movies)  
 [github.com/nuxt-movies](https://github.com/jamesrock/nuxt-movies)  
